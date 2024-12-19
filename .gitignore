@@ -121,3 +121,8 @@ venv.bak/
 
 # Vscode
 .vscode/
+
+# Libraries
+*.so
+*.dylib
+*.dll
